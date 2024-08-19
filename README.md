@@ -2,8 +2,6 @@
 
 ## Task01: Weather App
 
-<p>This repository includes two versions of a weather application:
-
 ### Basic Version:
 Description: A command-line tool for retrieving weather information based on user input (city name).
 Functionality: Fetches current weather data from the OpenWeatherMap API and displays city name, temperature, humidity, and weather description.
@@ -26,11 +24,9 @@ Advanced version: tkinter for GUI, PIL (Pillow) for image handling
 Notes:
 
 The basic version provides quick weather updates from the command line.
-The advanced version enhances user experience with a graphical interface and visual weather representation.<p/>
+The advanced version enhances user experience with a graphical interface and visual weather representation.
 
 ## Task02: Random Password Generator
-
-This repository contains two versions of a random password generator:
 
 ### Basic Version:
 Description: A command-line tool for generating a random password based on user-defined criteria.
@@ -59,8 +55,6 @@ The basic version is suitable for quick password generation from the command lin
 The advanced version offers a user-friendly interface with customizable options.
 
 ## Task03: BMI Calculator
-
-This repository contains two versions of a BMI calculator:
 
 ### Basic Version:
 Description: A command-line script for calculating Body Mass Index (BMI) based on user input for weight and height.
